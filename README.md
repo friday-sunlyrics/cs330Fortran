@@ -1,4 +1,4 @@
-# Learning FORTAN (Specifically FORTRAN 90/95)
+# Learning FORTRAN (Specifically FORTRAN 90/95)
 ![9adspn](https://github.com/user-attachments/assets/7486ac57-3da8-42e3-9b83-03a4e1409533)
 
 You may be wondering, why and what? Why on Earth do you want to learn a dead language?
