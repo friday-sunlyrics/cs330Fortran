@@ -1,4 +1,6 @@
 # Learning FORTAN (Specifically FORTRAN 90/95)
+![9adspn](https://github.com/user-attachments/assets/7486ac57-3da8-42e3-9b83-03a4e1409533)
+
 You may be wondering, why and what? Why on Earth do you want to learn a dead language?
 It's not dead, it's still be utilized in various areas... such as imaging! 
 FORTRAN is the 'grandfather' of all programming languages, and revolutionized computing. 
@@ -37,3 +39,7 @@ To declare a variable, first put in your data type, two semicolons without a spa
   Before diving right into coding your first function in FORTRAN, know that functions and the program block do NOT mix! As in, have your functions outside of the program/endprogram block. Additionally, functions in FORTRAN, atleast in the 90/95 version, functions are more picky than in Python for example. 
 
   To start, write in the data type of the function you want to return.
+  Then, type in the name of your function, and then
+
+  ![Screenshot 2024-12-09 214148](https://github.com/user-attachments/assets/1148cf35-26db-4b3a-92e0-9c8fb89c4c2a)
+
